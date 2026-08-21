@@ -117,32 +117,6 @@ blockquote {
   font-size: 19px;
 }
 
-figure {
-  margin: 30px 0;
-}
-
-figure img {
-  display: block;
-  width: 100%;
-  border-radius: 10px;
-}
-
-figcaption {
-  margin-top: 8px;
-  color: #5b6660;
-  font-size: 14px;
-}
-
-pre {
-  overflow-x: auto;
-  padding: 18px;
-  border-radius: 10px;
-  background-color: #14231d;
-  color: #dbe7df;
-  font-size: 14px;
-  line-height: 1.6;
-}
-
 .cards {
   display: flex;
   flex-wrap: wrap;
