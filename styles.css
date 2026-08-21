@@ -171,3 +171,21 @@ pre {
   font-size: 15px;
   line-height: 1.6;
 }
+
+@media only screen and (max-width: 860px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    flex: none;
+  }
+
+  .sidebar li a {
+    padding: 5px 0;
+  }
+
+  .content {
+    padding: 40px 24px;
+  }
+}
