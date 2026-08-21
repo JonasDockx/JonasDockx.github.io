@@ -43,6 +43,13 @@ a {
   object-fit: cover;
 }
 
+.linkedin {
+  width: 24px;
+  height: 24px;
+  border-radius: 3px;
+  object-fit: cover;
+}
+
 .name {
   margin: 0 0 6px;
   font-size: 27px;
