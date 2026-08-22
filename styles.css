@@ -71,7 +71,7 @@ a {
 .site-nav a {
   display: block;
   padding: 11px 0;
-  border-bottom: 1 px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   color: #b9cfc2;
   text-decoration: none;
 }
@@ -80,7 +80,7 @@ a {
   color: #ffffff;
 }
 
-.site-nav a:current {
+.site-nav a.current {
   color: #ffffff;
   font-weight: 700;
 }
@@ -90,6 +90,7 @@ a {
   color: #6f9282;
   font-size: 13px;
   line-height: 1.9;
+  font-style: normal;
 }
 
 .contact a {
